@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{3B6720BD-6DE9-4E63-84CE-7ECFFC71F25B}">
+	<children>
+		<child name="Azure_TC" key="{6B67A0FE-C7CF-4983-ABE3-24B988C3C717}" path="Azure_TC\Azure_TC.mds" />
+	</children>
+	<testItems key="{C88BDE06-8D21-4F59-82C4-B6004D0308C3}">
+		<children>
+			<testItem key="{6B67A0FE-C7CF-4983-ABE3-24B988C3C717}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{BA3071CF-6021-4EC9-ABE7-D997580C0B2B}" />
+	<analysis key="{729B29F6-2DAB-4313-91EF-2EB15A1DAB11}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{D387E6A4-32C2-4644-A306-AFB5C46E95C5}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{F9F048E0-7963-4891-8B80-B2C7ED9CE6E4}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="BrowserWindow" Key="{0FCB557B-2844-4D19-98A8-68100FDAFA89}">
+								<Image FileName="717862812" Left="-8" Top="-8" Right="1928" Bottom="1048" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageShop" Key="{CEB72B31-C2FD-4E90-A713-3B8AD2450B8E}">
+								<Image FileName="-1103439122" Left="0" Top="103" Right="1920" Bottom="1040" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://smartstore.alertsite.com/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="sectionContent" Key="{9EEB5DAD-4BCF-441E-8CDC-43885F733809}">
+										<Image FileName="-1103439122" Left="382" Top="323" Right="1522" Bottom="2301" />
+										<Selectors>
+											<Selector>
+												<Value Value="#content" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(., &apos;Welcome to our store&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(@class, &apos;container&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section" />
+											</Selector>
+											<Selector>
+												<Value Value="//section" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="articleSoccer" Key="{AA4D178C-FA14-4D73-867E-ECA26186FCC7}">
+										<Image FileName="-1103439122" Left="1147" Top="463" Right="1319" Bottom="666" />
+										<Selectors>
+											<Selector>
+												<Value Value="//article[contains(., &apos;Soccer&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-center&apos;]//article[5]" />
+											</Selector>
+											<Selector>
+												<Value Value="//article[5]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkShowProductsInCategorySoccer" Key="{AC9CB99C-AF55-4374-8286-46EAEA4EF501}">
+										<Image FileName="-1103439122" Left="1163" Top="479" Right="1303" Bottom="619" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[@title=&apos;Show products in category Soccer&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//article[5]//a[contains(@class, &apos;art-picture&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-center&apos;]//article[5]/div/a" />
+											</Selector>
+											<Selector>
+												<Value Value="//article[5]//a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="imagePictureForCategorySoccer" Key="{36860873-2A00-4BA3-9ADF-A4E2CDFDD7B0}">
+										<Image FileName="-1103439122" Left="1167" Top="479" Right="1298" Bottom="619" />
+										<TypeInfo Item0="{34C56C26-03A7-4B81-9FE8-69E583EA60D2}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//img[contains(@src, &apos;soccer.png&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[contains(@href, &apos;soccer&apos;)]/img" />
+											</Selector>
+											<Selector>
+												<Value Value="//article[5]//a/img" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="articleGiftCards" Key="{DC11189E-2F59-491F-AE3C-5ADE2D86A3C7}">
+										<Image FileName="739562999" Left="1147" Top="682" Right="1319" Bottom="885" />
+										<Selectors>
+											<Selector>
+												<Value Value="//article[contains(., &apos;Gift Cards&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-center&apos;]//article[11]" />
+											</Selector>
+											<Selector>
+												<Value Value="//article[11]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkGiftCards" Key="{9822B47D-C4DE-44C6-90F8-B786F22EBF76}">
+										<Image FileName="739562999" Left="1163" Top="698" Right="1303" Bottom="838" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[@title=&apos;Show products in category Gift Cards&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//article[11]//a[contains(@class, &apos;art-picture&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-center&apos;]//article[11]/div/a" />
+											</Selector>
+											<Selector>
+												<Value Value="//article[11]//a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="imagePictureForCategoryGiftCards" Key="{5DDC3219-5962-4A84-AC50-C118321336DB}">
+										<Image FileName="739562999" Left="1163" Top="724" Right="1303" Bottom="812" />
+										<TypeInfo Item0="{34C56C26-03A7-4B81-9FE8-69E583EA60D2}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//img[contains(@src, &apos;gift-cards.png&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[contains(@href, &apos;gift-cards&apos;)]/img" />
+											</Selector>
+											<Selector>
+												<Value Value="//article[11]//a/img" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageSoccer" Key="{89E3B2BF-8551-4C3C-BEC1-773E1D7A9EAB}">
+								<Image FileName="-1103439122" Left="0" Top="103" Right="1920" Bottom="1040" />
+								<TypeInfo Item0="{2366F46F-49F2-44E4-9AD7-A0639C3D7C21}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://smartstore.alertsite.com/soccer" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="sectionContent" Key="{B8DBF043-EFE3-4DD4-9DF5-492D2A74C17F}">
+										<Image FileName="-122801429" Left="382" Top="315" Right="1522" Bottom="1287" />
+										<Selectors>
+											<Selector>
+												<Value Value="#content" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(., &apos;Sports&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(@class, &apos;container&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section" />
+											</Selector>
+											<Selector>
+												<Value Value="//section" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkShowDetailsForTrainerBall" Key="{8CF22FE1-BD20-40BE-B20E-F628E21AEED5}">
+										<Image FileName="-122801429" Left="902" Top="534" Right="1076" Bottom="708" />
+										<Selectors>
+											<Selector>
+												<Value Value="//article//a[@title=&apos;Show details for Trainer Ball&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//article[2]//a[contains(@class, &apos;art-picture&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-center&apos;]//div[2]/article[2]//a" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/article[2]//a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="imageShowDetailsForTrainerBall" Key="{F7C9D948-E44D-4497-9FC3-B6A610F7F6B0}">
+										<Image FileName="-122801429" Left="902" Top="534" Right="1076" Bottom="708" />
+										<TypeInfo Item0="{34C56C26-03A7-4B81-9FE8-69E583EA60D2}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//article//a/img[@title=&apos;Show details for Trainer Ball&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-center&apos;]//article[2]//a/img" />
+											</Selector>
+											<Selector>
+												<Value Value="//article[2]//a/img" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="BrowserWindow2" Key="{EE2BFD5C-69A8-4131-B85B-4852D900AA6C}">
+								<Image FileName="1804395180" Left="-8" Top="-8" Right="1928" Bottom="1048" />
+								<TypeInfo Item0="{2177A3AB-3AC2-4F5C-8C9F-306148C06132}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageGiftCards" Key="{2F714620-E957-488B-9F33-7FD310DD42DD}">
+								<Image FileName="-911640921" Left="8" Top="111" Right="1928" Bottom="1048" />
+								<TypeInfo Item0="{1E906FB6-0AD3-4D35-88F2-12F956264069}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://smartstore.alertsite.com/gift-cards" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="sectionContent" Key="{456235B1-80F0-418C-B672-E508BFA6EA73}">
+										<Image FileName="-911640921" Left="390" Top="323" Right="1530" Bottom="1479" />
+										<TypeInfo Item0="{AC92AD0D-DA29-4206-9A47-CA540A1CD712}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#content" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(., &apos;Gift Cards&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(@class, &apos;container&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-wrapper&apos;]/section" />
+											</Selector>
+											<Selector>
+												<Value Value="//section" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode10VirtualGiftCard" Key="{C9D51A42-4AA7-45B4-A337-A5E71F2EB62A}">
+										<Image FileName="-911640921" Left="705" Top="729" Right="879" Bottom="765" />
+										<TypeInfo Item0="{AC92AD0D-DA29-4206-9A47-CA540A1CD712}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//h3[contains(., &apos;$10 Virtual Gift Card&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//article//h3[contains(@class, &apos;art-name&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;content-body&apos;]//article//h3" />
+											</Selector>
+											<Selector>
+												<Value Value="//article//h3" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode10VirtualGiftCard2" Key="{30CBB5D9-7DE1-4EB3-B7DB-A6D173F11F02}">
+										<Image FileName="-911640921" Left="705" Top="728" Right="833" Bottom="747" />
+										<TypeInfo Item0="{AC92AD0D-DA29-4206-9A47-CA540A1CD712}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//span[.=&apos;$10 Virtual Gift Card&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[contains(@href, &apos;10-virtual-gift-card&apos;)]/span" />
+											</Selector>
+											<Selector>
+												<Value Value="//h3/a/span" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="header" Key="{D9E7993D-CE66-43AE-87AA-8377F5642016}">
+										<Image FileName="-1674203532" Left="0" Top="103" Right="1903" Bottom="299" />
+										<Selectors>
+											<Selector>
+												<Value Value="#header" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(., &apos;USD ($)&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="link" Key="{412B217E-7803-4A9D-AFF6-9FE3383B4C3D}">
+										<Image FileName="-1674203532" Left="395" Top="162" Right="642" Bottom="222" />
+										<Selectors>
+											<Selector>
+												<Value Value="//header//a[contains(@class, &apos;brand&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[@id=&apos;header&apos;]//div/div/div/a" />
+											</Selector>
+											<Selector>
+												<Value Value="//header/div[2]//a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="imageYourStoreName" Key="{B2140789-3B41-4C97-A80C-D05DD691B32E}">
+										<Image FileName="-1674203532" Left="395" Top="162" Right="642" Bottom="222" />
+										<TypeInfo Item0="{34C56C26-03A7-4B81-9FE8-69E583EA60D2}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//img[@title=&apos;Your store name&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//img[contains(@class, &apos;img-fluid&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[@id=&apos;header&apos;]//img" />
+											</Selector>
+											<Selector>
+												<Value Value="//header//a/img" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{F9F048E0-7963-4891-8B80-B2C7ED9CE6E4}">
+			<Child Name="BrowserWindow" Owner="{0FCB557B-2844-4D19-98A8-68100FDAFA89}" />
+			<Child Name="pageShop" Owner="{CEB72B31-C2FD-4E90-A713-3B8AD2450B8E}">
+				<Child Name="sectionContent" Owner="{9EEB5DAD-4BCF-441E-8CDC-43885F733809}">
+					<Child Name="articleSoccer" Owner="{AA4D178C-FA14-4D73-867E-ECA26186FCC7}">
+						<Child Name="linkShowProductsInCategorySoccer" Owner="{AC9CB99C-AF55-4374-8286-46EAEA4EF501}">
+							<Child Name="imagePictureForCategorySoccer" Owner="{36860873-2A00-4BA3-9ADF-A4E2CDFDD7B0}" />
+						</Child>
+					</Child>
+					<Child Name="articleGiftCards" Owner="{DC11189E-2F59-491F-AE3C-5ADE2D86A3C7}">
+						<Child Name="linkGiftCards" Owner="{9822B47D-C4DE-44C6-90F8-B786F22EBF76}">
+							<Child Name="imagePictureForCategoryGiftCards" Owner="{5DDC3219-5962-4A84-AC50-C118321336DB}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageSoccer" Owner="{89E3B2BF-8551-4C3C-BEC1-773E1D7A9EAB}">
+				<Child Name="sectionContent" Owner="{B8DBF043-EFE3-4DD4-9DF5-492D2A74C17F}">
+					<Child Name="linkShowDetailsForTrainerBall" Owner="{8CF22FE1-BD20-40BE-B20E-F628E21AEED5}">
+						<Child Name="imageShowDetailsForTrainerBall" Owner="{F7C9D948-E44D-4497-9FC3-B6A610F7F6B0}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="BrowserWindow2" Owner="{EE2BFD5C-69A8-4131-B85B-4852D900AA6C}" />
+			<Child Name="pageGiftCards" Owner="{2F714620-E957-488B-9F33-7FD310DD42DD}">
+				<Child Name="sectionContent" Owner="{456235B1-80F0-418C-B672-E508BFA6EA73}">
+					<Child Name="textnode10VirtualGiftCard" Owner="{C9D51A42-4AA7-45B4-A337-A5E71F2EB62A}">
+						<Child Name="textnode10VirtualGiftCard2" Owner="{30CBB5D9-7DE1-4EB3-B7DB-A6D173F11F02}" />
+					</Child>
+				</Child>
+				<Child Name="header" Owner="{D9E7993D-CE66-43AE-87AA-8377F5642016}">
+					<Child Name="link" Owner="{412B217E-7803-4A9D-AFF6-9FE3383B4C3D}">
+						<Child Name="imageYourStoreName" Owner="{B2140789-3B41-4C97-A80C-D05DD691B32E}" />
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

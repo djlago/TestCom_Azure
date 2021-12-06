@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{6C50DE15-A8B1-49A7-918C-B57A82EC1FDC}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="44536.800150463" objectName="Aliases.browser.pageShop.sectionContent.articleGiftCards.linkGiftCards.imagePictureForCategoryGiftCards" objectLeft="1163" objectTop="724" objectRight="1303" objectBottom="812" clickPointX="1264" clickPointY="772" imageFileName="tcvi2143442148325.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="44536.8003703704" objectName="Aliases.browser.pageGiftCards.header.link.imageYourStoreName" objectLeft="395" objectTop="162" objectRight="642" objectBottom="222" clickPointX="550" clickPointY="201" imageFileName="tcvi2145318748329.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

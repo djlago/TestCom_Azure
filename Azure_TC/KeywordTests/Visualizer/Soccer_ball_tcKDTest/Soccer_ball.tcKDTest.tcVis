@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{3E26BE6A-6422-4B8D-9633-6CEB35C9682E}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="44536.7989351852" objectName="Aliases.browser.pageShop.sectionContent.articleSoccer.linkShowProductsInCategorySoccer.imagePictureForCategorySoccer" objectLeft="1167" objectTop="479" objectRight="1298" objectBottom="619" clickPointX="1252" clickPointY="562" imageFileName="tcvi2132910948327.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="44536.7989930556" objectName="Aliases.browser.pageSoccer.sectionContent.linkShowDetailsForTrainerBall.imageShowDetailsForTrainerBall" objectLeft="902" objectTop="534" objectRight="1076" objectBottom="708" clickPointX="966" clickPointY="631" imageFileName="tcvi21334328483210.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="44536.799212963" objectName="Aliases.browser.BrowserWindow" objectLeft="-1" objectTop="-1" objectRight="-1" objectBottom="-1" clickPointX="-1" clickPointY="-1" imageFileName="tcvi21353234483211.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

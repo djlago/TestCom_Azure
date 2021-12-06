@@ -153,6 +153,24 @@
 											</Selector>
 										</Selectors>
 									</Child>
+									<Child Name="textnodeWelcomeToOurStore" Key="{ACFB616D-2D6F-45CB-9AFF-27E6F0024FAB}">
+										<Image FileName="37929819" Left="405" Top="331" Right="1515" Bottom="369" />
+										<TypeInfo Item0="{AC92AD0D-DA29-4206-9A47-CA540A1CD712}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//h1[.=&apos;Welcome to our store&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//h1[contains(@class, &apos;h2&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;ph-title-6&apos;]/h1" />
+											</Selector>
+											<Selector>
+												<Value Value="//h1" />
+											</Selector>
+										</Selectors>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="pageSoccer" Key="{89E3B2BF-8551-4C3C-BEC1-773E1D7A9EAB}">
@@ -368,6 +386,7 @@
 							<Child Name="imagePictureForCategoryGiftCards" Owner="{5DDC3219-5962-4A84-AC50-C118321336DB}" />
 						</Child>
 					</Child>
+					<Child Name="textnodeWelcomeToOurStore" Owner="{ACFB616D-2D6F-45CB-9AFF-27E6F0024FAB}" />
 				</Child>
 			</Child>
 			<Child Name="pageSoccer" Owner="{89E3B2BF-8551-4C3C-BEC1-773E1D7A9EAB}">

@@ -3,5 +3,6 @@
 	<children>
 		<child name="Soccer_ball" key="{3E26BE6A-6422-4B8D-9633-6CEB35C9682E}" path="Soccer_ball.tcKDTest" />
 		<child name="GiftCard" key="{6C50DE15-A8B1-49A7-918C-B57A82EC1FDC}" path="GiftCard.tcKDTest" />
+		<child name="Test1" key="{824EA418-B0F5-4639-897F-FC638C83F918}" path="Test1.tcKDTest" />
 	</children>
 </Root>
